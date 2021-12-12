@@ -1,0 +1,36 @@
+D:\Downloads\PruebaFinal\PruebaFinal2\prueba2\Entidad\bin\Debug\net5.0\Entidad.deps.json
+D:\Downloads\PruebaFinal\PruebaFinal2\prueba2\Entidad\bin\Debug\net5.0\Entidad.dll
+D:\Downloads\PruebaFinal\PruebaFinal2\prueba2\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+D:\Downloads\PruebaFinal\PruebaFinal2\prueba2\Entidad\bin\Debug\net5.0\Entidad.pdb
+D:\Downloads\PruebaFinal\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.csproj.AssemblyReference.cache
+D:\Downloads\PruebaFinal\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\PruebaFinal\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+D:\Downloads\PruebaFinal\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+D:\Downloads\PruebaFinal\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+D:\Downloads\PruebaFinal\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.dll
+D:\Downloads\PruebaFinal\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+D:\Downloads\PruebaFinal\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.pdb
+C:\Users\WIN10\Desktop\PruebaFinal2\prueba2\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\WIN10\Desktop\PruebaFinal2\prueba2\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\WIN10\Desktop\PruebaFinal2\prueba2\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+C:\Users\WIN10\Desktop\PruebaFinal2\prueba2\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\WIN10\Desktop\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\WIN10\Desktop\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\Users\WIN10\Desktop\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.pdb
+D:\Downloads\PruebaFinal2 (1)\PruebaFinal2\prueba2\Entidad\bin\Debug\net5.0\Entidad.deps.json
+D:\Downloads\PruebaFinal2 (1)\PruebaFinal2\prueba2\Entidad\bin\Debug\net5.0\Entidad.dll
+D:\Downloads\PruebaFinal2 (1)\PruebaFinal2\prueba2\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+D:\Downloads\PruebaFinal2 (1)\PruebaFinal2\prueba2\Entidad\bin\Debug\net5.0\Entidad.pdb
+D:\Downloads\PruebaFinal2 (1)\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.csproj.AssemblyReference.cache
+D:\Downloads\PruebaFinal2 (1)\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\PruebaFinal2 (1)\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+D:\Downloads\PruebaFinal2 (1)\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+D:\Downloads\PruebaFinal2 (1)\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+D:\Downloads\PruebaFinal2 (1)\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.dll
+D:\Downloads\PruebaFinal2 (1)\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+D:\Downloads\PruebaFinal2 (1)\PruebaFinal2\prueba2\Entidad\obj\Debug\net5.0\Entidad.pdb
